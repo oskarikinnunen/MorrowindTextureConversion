@@ -1,4 +1,8 @@
-cd textures
+#cd textures
+
+pth=textures/water
+
+cd $pth
 
 for file in *.dds
 do
